@@ -11,5 +11,5 @@ Stirling‚ÌÀsƒtƒ@ƒCƒ‹‚ª“ü‚Á‚Ä‚¢‚éƒtƒHƒ‹ƒ_‚Ì’†‚É‚ ‚éustruct.defv‚Ì––”ö‚Édefƒtƒ
 
 ##ìÒ
 @zohar0729  
-*[Twitter](https://twitter,com/IKNM__)
+*[Twitter](https://twitter.com/IKNM__)
 *[GitHub] (https://github.com/zohar0729)

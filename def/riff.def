@@ -1,0 +1,26 @@
+struct RIFFINFOHEADER
+{
+	DWORD	id;
+	DWORD	size;
+	WORD	format;
+	WORD	channels;
+	DWORD	samplerate;
+	DWORD	bytepersec;
+	WORD	blockalign;
+	WORD	bitswidth;
+	WORD	extended_size;
+};
+
+struct RIFFDATA
+{
+	DWORD	id;
+	DWORD	size;
+	DWORD	waveformData [65536];
+};
+
+struct WAVEFILE_SAMPLE
+{
+	RIFFFILEHEADER	header;
+	RIFFINFOHEADER 	info;
+	RIFFDATA		data;
+};
